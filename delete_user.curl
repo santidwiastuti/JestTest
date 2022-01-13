@@ -1,0 +1,5 @@
+curl -X DELETE \
+  'https://gorest.co.in/public/v1/users/3936' \
+  -H 'Accept: */*' \
+  -H 'User-Agent: Thunder Client (https://www.thunderclient.io)' \
+  -H 'Authorization: Bearer e158368081cbddc742ac2dc49a048d785a0b60d49f9eb927e9f55fc16dd43971'
